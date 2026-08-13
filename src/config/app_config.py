@@ -1,4 +1,4 @@
-APP_NAME = "Health Insights Agent"
+APP_NAME = "Haajira Insights Agent"
 APP_DESCRIPTION = "Your Personal Health Insights Agent"
 APP_ICON = "🩺"
 APP_TAGLINE = "Discover a Healthier You with AI"
