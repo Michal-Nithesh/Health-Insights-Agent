@@ -1,7 +1,7 @@
 APP_NAME = "Haajira Insights Agent"
 APP_DESCRIPTION = "Your Personal Health Insights Agent"
 APP_ICON = "🩺"
-APP_TAGLINE = "Discover a Healthier You with AI"
+APP_TAGLINE = "Discover a healthier you with personalized insights and recommendations."
 
 # App settings
 MAX_UPLOAD_SIZE_MB = 20
